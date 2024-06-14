@@ -30,3 +30,10 @@ Por otra parte, si se quiere clonar el repositorio y ejecutarlo en local, se deb
    git clone https://github.com/alvaroargibayp/BusGo.git
 
 2. Ejecutar app en el emulador o dispositivo conectado indicado.
+
+## Preview
+
+![Map](ImagesReadme/mapa.jpg)
+![Stops](ImagesReadme/paradas.jpeg)
+![Lines](ImagesReadme/lineas.jpeg)
+![Settings](ImagesReadme/ajustes.jpeg)
