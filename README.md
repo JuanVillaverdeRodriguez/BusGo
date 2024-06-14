@@ -29,8 +29,4 @@ Por otra parte, si se quiere clonar el repositorio y ejecutarlo en local, se deb
    ```bash
    git clone https://github.com/alvaroargibayp/BusGo.git
 
-2. Abrir la carpeta en Android Studio y en el archivo **local.properties** de **Gradle Scripts**, debemos introducir la siguiente línea al final de todo:
-
-    MAPS_API_KEY = AIzaSyAgkA2DLI6Bk6GWwDvmN4t0GrMHDpw2S7Y
-
-3. Ejecutar app en el emulador o dispositivo conectado indicado.
+2. Ejecutar app en el emulador o dispositivo conectado indicado.
