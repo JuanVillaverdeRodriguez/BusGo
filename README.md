@@ -33,11 +33,6 @@ Por otra parte, si se quiere clonar el repositorio y ejecutarlo en local, se deb
 
 ## Preview
 
-![Map](ImagesReadme/mapa.jpg)
-![Stops](ImagesReadme/paradas.jpeg)
-![Lines](ImagesReadme/lineas.jpeg)
-![Settings](ImagesReadme/ajustes.jpeg)
-
 <div style="display: flex; justify-content: space-between;">
   <img src="ImagesReadme/mapa.jpg" alt="Map" width="23%"/>
   <img src="ImagesReadme/paradas.jpeg" alt="Stops" width="23%"/>
